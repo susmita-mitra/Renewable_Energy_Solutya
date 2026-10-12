@@ -15,12 +15,12 @@ function Navbar() {
         <div className="logo-icon">
 
           <img 
-            src="/assets/header/Ellipse 3.png"
+            src="./assets/header/Ellipse 3.png"
             className="leaf1"
           />
 
           <img 
-            src="/assets/header/Group 11 (1).png"
+            src="./assets/header/Group 11 (1).png"
             className="leaf2"
           />
 
@@ -62,7 +62,7 @@ function Navbar() {
         <button className="bell-btn">
 
           <img 
-            src="/assets/header/Vector.png"
+            src="./assets/header/Vector.png"
           />
 
         </button>
@@ -74,7 +74,7 @@ onClick={() => setMenuOpen(!menuOpen)}
 >
 
 <img 
-src="/assets/header/Group 9.png"
+src="./assets/header/Group 9.png"
 />
 
 </button>
